@@ -9,9 +9,9 @@
   <p style="color: #39f172;">I love cyberpunk.</p>
   <p style="color: #39f172;">I'm passionate about polished, dynamic UIs.</p>
   </div>
-  <div>
+
   <img src="https://media.giphy.com/media/YaAxfArI11F2XOIczx/giphy.gif" align="right" />
-  </div>  
+ 
 </div>
 
 ## Installation
