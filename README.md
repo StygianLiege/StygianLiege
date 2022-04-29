@@ -1,4 +1,4 @@
-<h1 style="color: #39f172;">Bio</h1>
+<h1 style="color: #39f172;">Always nice to see a friendly face</h1>
 
 <div style="display: flex; justify-content: space-between;" >
   <div>
@@ -10,7 +10,7 @@
   <p style="color: #39f172;">I'm passionate about polished, dynamic UIs.</p>
   </div>
   <div>
-  <img src="https://media.giphy.com/media/YaAxfArI11F2XOIczx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/YaAxfArI11F2XOIczx/giphy.gif" align="right" />
   </div>  
 </div>
 
