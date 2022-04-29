@@ -1,6 +1,6 @@
 <h1 style="color: #39f172;">Always nice to see a friendly face</h1>
 
-My name is **Eric Lemay**. <img src="https://media.giphy.com/media/Iw5dYjK01i7RY38QUY/giphy.gif" align="right" />
+My name is **Eric Lemay**. <img src="https://media.giphy.com/media/zrk3hnNf4GqeGPeniS/giphy.gif" align="right" />
 
 I'm a **Frontend Software Engineer**.
 
