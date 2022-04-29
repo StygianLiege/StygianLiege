@@ -1,16 +1,18 @@
-<h1 style="color: #39f172;">Always nice to see a friendly face</h1>
+# Greetings
 
-My name is **Eric Lemay**. <img src="https://media.giphy.com/media/zrk3hnNf4GqeGPeniS/giphy.gif" align="right" />
+👤 My name is **Eric Lemay**. <img src="https://media.giphy.com/media/zrk3hnNf4GqeGPeniS/giphy.gif" align="right" />
 
-I'm a **Frontend Software Engineer**.
+💻 I'm a **Frontend Software Engineer**.
 
-I live in **New York City**.
+🏙 I live in **New York City**.
 
-I like **lifting weights**.
+🦾 I like **lifting weights**.
 
-I love **cyberpunk**.
+🆒 I love **cyberpunk**.
 
-I'm passionate about **polished**, **dynamic UIs**.
+🔊 I listen to **techno**.
+
+❤️‍🔥 I'm passionate about **polished**, **dynamic UIs**.
 
 ## Installation
 
