@@ -1,4 +1,4 @@
-# Greetings
+# digital greetings, friend
 
 👤 My name is **Eric Lemay**. <img src="https://media.giphy.com/media/zrk3hnNf4GqeGPeniS/giphy.gif" align="right" />
 
@@ -13,6 +13,8 @@
 🔊 I listen to **techno**.
 
 ❤️‍🔥 I'm passionate about **polished**, **dynamic UIs**.
+
+🆗 Would you like to know more?
 
 ## Technology
 
