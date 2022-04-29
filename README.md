@@ -1,16 +1,11 @@
 <h1 style="color: #39f172;">Always nice to see a friendly face</h1>
 
-<div style="display: flex; justify-content: space-between;" >
-  <div>
-  <p style="color: #39f172;">My name is Eric Lemay.</p>
-  <p style="color: #39f172;">I'm a Frontend Software Engineer.</p>
-  <p style="color: #39f172;">I live in New York City.</p>
-  <p style="color: #39f172;">I like lifting weights.</p>
-  <p style="color: #39f172;">I love cyberpunk.</p>
-  <p style="color: #39f172;">I'm passionate about polished, dynamic UIs.</p>
-  </div>
-<hr>
-  <img src="https://media.giphy.com/media/YaAxfArI11F2XOIczx/giphy.gif" align="right" />
+My name is **Eric Lemay**. <img src="https://media.giphy.com/media/YaAxfArI11F2XOIczx/giphy.gif" align="right" />
+I'm a **Frontend Software Engineer**.
+I live in **New York City**.
+I like **lifting weights**.
+I love **cyberpunk**.
+I'm passionate about **polished**, **dynamic UIs**.
 
 </div>
 
