@@ -15,7 +15,7 @@
 ❤️‍🔥 I'm passionate about **polished**, **dynamic UIs**.
 <br/><br/>
 🆗 Would you like to know **more**?
-<br/><br/>
+<br/><br/><br/>
 
 ## Skills and Technologies
 
