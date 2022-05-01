@@ -1,21 +1,21 @@
 # digital greetings
 
 👤 My name is **Eric Lemay**. <img src="https://media.giphy.com/media/TwOQEVr2Ud3kfe5N9R/giphy.gif" align="right" />
-<br/><br/>
+<br/><br/><br/>
 💻 I'm a **Frontend Software Engineer**.
-<br/><br/>
+<br/><br/><br/>
 🏙 I live in **New York City**.
-<br/><br/>
+<br/><br/><br/>
 🦾 I like **lifting weights**.
-<br/><br/>
+<br/><br/><br/>
 🆒 I love **cyberpunk**.
-<br/><br/>
+<br/><br/><br/>
 🔊 I listen to **techno**.
-<br/><br/>
+<br/><br/><br/>
 ❤️‍🔥 I'm passionate about **polished**, **dynamic UIs**.
-<br/><br/>
+<br/><br/><br/>
 🆗 Would you like to know **more**?
-<br/><br/>
+<br/><br/><br/>
 
 ## Skills and Technologies
 
