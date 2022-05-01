@@ -39,4 +39,4 @@ Currently learning:
 
 ## Find more at...
 
-[![Resume](https://img.shields.io/badge/Resume-39f172?style=for-the-badge&logoColor=black)](download:./assets/Eric_Lemay_Resume.pdf) [![ericlemay.io](https://img.shields.io/badge/ericlemay.io-39f172?style=for-the-badge&logoColor=black)](https://ericlemay.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-39f172?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lemayericr) [![Gmail](https://img.shields.io/badge/Gmail-39f172?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lemay.eric.r@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-39f172?style=for-the-badge&logoColor=black)](https://raw.githubusercontent.com/StygianLiege/bio/blob/main/assets/Eric_Lemay_Resume.pdf) [![ericlemay.io](https://img.shields.io/badge/ericlemay.io-39f172?style=for-the-badge&logoColor=black)](https://ericlemay.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-39f172?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lemayericr) [![Gmail](https://img.shields.io/badge/Gmail-39f172?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lemay.eric.r@gmail.com)
