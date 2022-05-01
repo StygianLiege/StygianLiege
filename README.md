@@ -14,8 +14,6 @@
 <br/><br/>
 ❤️‍🔥 I'm passionate about **polished**, **dynamic UIs**.
 <br/><br/>
-🛠 Most recently I worked on **[![Mist](https://img.shields.io/badge/Mist-39f172?style=for-the-badge&logoColor=black)](https://github.com/oslabs-beta/mist)**.
-<br/><br/>
 🆗 Would you like to know **more**?
 <br/><br/>
 
