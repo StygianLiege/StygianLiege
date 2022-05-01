@@ -38,4 +38,4 @@ Currently learning:
 
 ## Find me on...
 
-[![ericlemay.io](https://img.shields.io/badge/ericlemay.io-39f172?style=for-the-badge&logo=About.me&logoColor=black)](https://ericlemay.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-39f172?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lemayericr) [![Gmail](https://img.shields.io/badge/Gmail-39f172?style=for-the-badge&logo=gmail&logoColor=black)](lemay.eric.r@gmail.com)
+[![ericlemay.io](https://img.shields.io/badge/ericlemay.io-39f172?style=for-the-badge&logo=About.me&logoColor=black)](https://ericlemay.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-39f172?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lemayericr) [![Gmail](https://img.shields.io/badge/Gmail-39f172?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lemay.eric.r@gmail.com)
