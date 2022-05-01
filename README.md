@@ -37,6 +37,6 @@ Currently learning:
 
 ![Next JS](https://img.shields.io/badge/Next-39f172?style=for-the-badge&logo=next.js&logoColor=black) ![GraphQL](https://img.shields.io/badge/-GraphQL-39f172?style=for-the-badge&logo=graphql&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-39f172.svg?style=for-the-badge&logo=typescript&logoColor=black)
 
-## Find me on...
+## Find more at...
 
-[![ericlemay.io](https://img.shields.io/badge/ericlemay.io-39f172?style=for-the-badge&logo=About.me&logoColor=black)](https://ericlemay.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-39f172?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lemayericr) [![Gmail](https://img.shields.io/badge/Gmail-39f172?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lemay.eric.r@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-39f172?style=for-the-badge&logoColor=black)](download:./assets/Eric_Lemay_Resume.pdf) [![ericlemay.io](https://img.shields.io/badge/ericlemay.io-39f172?style=for-the-badge&logoColor=black)](https://ericlemay.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-39f172?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lemayericr) [![Gmail](https://img.shields.io/badge/Gmail-39f172?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lemay.eric.r@gmail.com)
