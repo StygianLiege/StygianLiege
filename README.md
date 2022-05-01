@@ -1,6 +1,6 @@
 # digital greetings
 
-👤 My name is **Eric Lemay**. <img src="https://media.giphy.com/media/CdNCPxEgdb4n8O3zGX/giphy.gif" align="right" />
+👤 My name is **Eric Lemay**. <img src="https://media.giphy.com/media/TwOQEVr2Ud3kfe5N9R/giphy.gif" align="right" />
 
 💻 I'm a **Frontend Software Engineer**.
 
