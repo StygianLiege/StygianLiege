@@ -20,18 +20,22 @@
 
 **Languages**:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-39f172.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-39f172.svg?style=for-the-badge&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-39f172.svg?style=for-the-badge&logo=css3&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-39f172.svg?style=for-the-badge&logo=SASS&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-39f172.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 
 **Libraries**, **Frameworks**, and **DBMS**:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-39f172.svg?style=for-the-badge&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/redux-39f172.svg?style=for-the-badge&logo=redux&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-39f172?style=for-the-badge&logo=node.js&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-39f172.svg?style=for-the-badge&logo=express&logoColor=black) ![Svelte](https://img.shields.io/badge/svelte-39f172.svg?style=for-the-badge&logo=svelte&logoColor=black)
 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-39f172.svg?style=for-the-badge&logo=chart.js&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-39f172.svg?style=for-the-badge&logo=mongodb&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-39f172.svg?style=for-the-badge&logo=postgresql&logoColor=black) ![Jest](https://img.shields.io/badge/-jest-39f172?style=for-the-badge&logo=jest&logoColor=black)
 
 **Tools**:
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-39f172.svg?style=for-the-badge&logo=git&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-39f172?style=for-the-badge&logo=babel&logoColor=black) ![Webpack](https://img.shields.io/badge/webpack-39f172.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Docker](https://img.shields.io/badge/docker-39f172.svg?style=for-the-badge&logo=docker&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-39f172.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
 Currently learning:
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-39f172?style=for-the-badge&logo=next.js&logoColor=black) ![GraphQL](https://img.shields.io/badge/-GraphQL-39f172?style=for-the-badge&logo=graphql&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-39f172.svg?style=for-the-badge&logo=typescript&logoColor=black)
+
+## Find me on...
+
+[![ericlemay.io](https://img.shields.io/badge/ericlemay.io-39f172?style=for-the-badge&logo=About.me&logoColor=black)](https://ericlemay.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-39f172?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lemayericr) [![Gmail](https://img.shields.io/badge/Gmail-39f172?style=for-the-badge&logo=gmail&logoColor=black)](lemay.eric.r@gmail.com)
