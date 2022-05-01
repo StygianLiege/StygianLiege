@@ -14,6 +14,8 @@
 <br/><br/>
 ❤️‍🔥 I'm passionate about **polished**, **dynamic UIs**.
 <br/><br/>
+🛠 Most recently I've been working on **[Mist](https://github.com/oslabs-beta/mist)**.
+<br/><br/>
 🆗 Would you like to know **more**?
 <br/><br/>
 
