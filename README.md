@@ -8,7 +8,7 @@
 <br/><br/>
 🦾 I like **lifting weights**.
 <br/><br/>
-🆒 I love **cyberpunk**.
+🆒 I love my **dog**.
 <br/><br/>
 🔊 I listen to **techno**.
 <br/><br/>
