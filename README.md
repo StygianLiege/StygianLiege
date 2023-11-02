@@ -33,7 +33,7 @@
 <br/><br/>
 Currently learning:
 
-![Next JS](https://img.shields.io/badge/Next-ac86ff?style=for-the-badge&logo=next.js&logoColor=black) ![GraphQL](https://img.shields.io/badge/-GraphQL-ac86ff?style=for-the-badge&logo=graphql&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-ac86ff.svg?style=for-the-badge&logo=typescript&logoColor=black)
+<picture>![Next JS](https://img.shields.io/badge/Next-ac86ff?style=for-the-badge&logo=next.js&logoColor=black)</picture> <picture>![GraphQL](https://img.shields.io/badge/-GraphQL-ac86ff?style=for-the-badge&logo=graphql&logoColor=black)</picture> ![TypeScript](https://img.shields.io/badge/typescript-ac86ff.svg?style=for-the-badge&logo=typescript&logoColor=black)
 
 ## Find more at...
 
