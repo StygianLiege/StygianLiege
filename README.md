@@ -10,8 +10,6 @@
 <br/><br/>
 🆒 I love my **dog**.
 <br/><br/>
-🔊 I listen to **techno**.
-<br/><br/>
 ❤️‍🔥 I'm passionate about **polished**, **dynamic UIs**.
 <br/><br/>
 🆗 Would you like to know **more**?
