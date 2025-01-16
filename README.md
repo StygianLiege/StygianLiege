@@ -1,19 +1,6 @@
-# digital greetings <img src="https://media.giphy.com/media/iZqACjoizzbZzckhgn/giphy.gif" align="right" style="z-index:10;" />
+# digital greetings
 
-👤 My name is **Eric Lemay**.
-<br/><br/>
-💻 I'm a **Frontend Software Engineer**.
-<br/><br/>
-🏙 I live in **New York City**.
-<br/><br/>
-🦾 I like **lifting weights**.
-<br/><br/>
-🆒 I love my **dog**.
-<br/><br/>
-❤️‍🔥 I'm passionate about **polished**, **dynamic UIs**.
-<br/><br/>
-🆗 Would you like to know **more**?
-<br/><br/><br/>
+![Eric Lemay Greetings](./flexbox.svg)
 
 ## Skills and Technologies
 
