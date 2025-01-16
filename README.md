@@ -1,4 +1,4 @@
-# digital greetings <img src="https://media.giphy.com/media/iZqACjoizzbZzckhgn/giphy.gif" align="right" />
+# digital greetings <img src="https://media.giphy.com/media/iZqACjoizzbZzckhgn/giphy.gif" align="right" style="z-index:10;" />
 
 👤 My name is **Eric Lemay**.
 <br/><br/>
